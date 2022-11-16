@@ -13,3 +13,7 @@ def divisao(a, b):
         print('Divisão inválida')
         divisao = 0
     return divisao
+
+def subtracao(a,b):
+    subtracao = a - b
+    return subtracao
