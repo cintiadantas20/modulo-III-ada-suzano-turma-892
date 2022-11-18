@@ -1,3 +1,5 @@
+from .funcoes import soma, subtracao, multiplicacao, divisao
+
 def calcule():
     a = int(input('Digite um número:'))
     b = int(input('Digite outro número:'))
